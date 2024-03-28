@@ -17,6 +17,6 @@
 ## Botとは直接関係ない機能 (add_schedule.gs)
 * Spreadsheetでゼミの予定をGoogle Calendarに一括登録するためのGAS
 
-#参考にしたサイト
+## 参考にしたサイト
 * https://ocomoji.co.jp/knowledge_01
 * https://designmemo.jp/2017/05/bot-googlecalendar-mmost.html
