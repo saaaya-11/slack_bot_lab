@@ -3,7 +3,7 @@
 
 ## 使用技術
 * Slack API
-* Google Apps Script
+* Google Apps Script (Github上ではJavaScriptとして置いた)
 
 ## Bot基本機能
 * おうむがえし (チュートリアルがてら作成)
@@ -14,5 +14,5 @@
 * Slack workspace内の絵文字ランキング
 * このコードをClaspを使ってGit管理する
 
-## Botとは直接関係ない機能
+## Botとは直接関係ない機能 (add_schedule.gs)
 * Spreadsheetでゼミの予定をGoogle Calendarに一括登録するためのGAS
