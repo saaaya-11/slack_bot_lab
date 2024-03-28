@@ -16,6 +16,8 @@
 
 ## Botとは直接関係ない機能 (add_schedule.gs)
 * Spreadsheetでゼミの予定をGoogle Calendarに一括登録するためのGAS
+spreadsheetの見た目
+<img width="891" alt="image" src="https://github.com/saaaya-11/slack_bot_lab/assets/39193854/e02cfe0e-a8ff-42af-bb6d-01e97dfcc405">
 
 ## 参考にしたサイト
 * https://ocomoji.co.jp/knowledge_01
